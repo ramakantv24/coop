@@ -1,0 +1,8 @@
+[20-Jul-2023 15:42:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.33. in /home/wt4g0uokdvne/public_html/vendor/composer/platform_check.php on line 24
+[02-Sep-2023 06:23:26 America/Phoenix] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home/wt4g0uokdvne/public_html/mail_test.php:2957
+Stack trace:
+#0 /home/wt4g0uokdvne/public_html/mail_test.php(768): SMTP->Data()
+#1 /home/wt4g0uokdvne/public_html/mail_test.php(588): PHPMailer->SmtpSend()
+#2 /home/wt4g0uokdvne/public_html/mail_test.php(3481): PHPMailer->Send()
+#3 {main}
+  thrown in /home/wt4g0uokdvne/public_html/mail_test.php on line 2957

@@ -1,0 +1,42 @@
+@extends('layouts.frontend')
+@section('title', 'Terms of Services')
+@section('content')
+
+<main id="main">
+   
+            <div class="container">
+                
+                <br><br><br><br>
+               <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong><u>Terms and Conditions for Users</u></strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>Welcome to The Cooperatives Trust. By accessing and using our website (<a href="http://www.coopindia.org">www.coopindia.org</a>), you agree to comply with the following terms and conditions. If you do not agree with any part of these terms, please refrain from using our website.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>1. Use of the Website</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. The content on our website is provided for informational purposes only and should not be considered as financial or legal advice. You acknowledge that any reliance on the information provided is at your own risk.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; b. You must be at least 13 years old or the legal age in your jurisdiction to use our website.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; c. You agree to use our website only for lawful purposes and in accordance with these terms and applicable laws and regulations.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>2. Intellectual Property</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. The content, trademarks, logos, and other intellectual property displayed on our website are the property of <strong>The Cooperatives Trust</strong> or its licensors. You may not use, reproduce, modify, or distribute any of the intellectual property without our prior written consent.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>3. Privacy and Data Protection</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. We take privacy and data protection seriously. Our Privacy Policy outlines how we collect, use, disclose, and protect the personal information you provide to us. By using our website, you consent to the collection and use of your personal information as described in our Privacy Policy.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>4. Accuracy of Information</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. While we strive to provide accurate and up-to-date information, we do not warrant the completeness, accuracy, or reliability of any content on our website. Any reliance on the information is at your own risk.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; b. We reserve the right to modify, update, or remove content on our website without prior notice.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>5. Third-Party Links</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. Our website may contain links to third-party websites or resources. These links are provided for your convenience, and we do not endorse or control the content or practices of these third-party websites.</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; b. You acknowledge and agree that we are not responsible or liable for any damages or losses arising from your use of third-party websites.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>6. Limitation of Liability</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. To the maximum extent permitted by law, <strong>The Cooperatives Trust</strong> and its affiliates, officers, directors, employees, or agents shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or related to the use of our website.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>7. Indemnification</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. You agree to indemnify and hold harmless <strong>The Cooperatives Trust</strong> and its affiliates, officers, directors, employees, or agents from any claims, damages, liabilities, or expenses arising from your use of our website or violation of these terms.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>8. Governing Law and Jurisdiction</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. These terms shall be governed by and construed in accordance with the laws of <strong>Civil Court, Gangavathi-583227, Koppal District, Karnataka</strong>. Any legal action or proceeding arising out of or related to these terms shall be brought exclusively in the courts located in <strong>Gangavathi-583227, Koppal District, Karnataka</strong>, and you consent to the personal jurisdiction of such courts.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>9. Modifications</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. We reserve the right to modify or update these terms and conditions at any time. Any changes will be effective immediately upon posting on our website. Your continued use of our website after the modifications constitute your acceptance of the revised terms.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'><strong>10. Contact Information</strong></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";text-align:justify;'>&nbsp; &nbsp; a. If you have any questions or concerns regarding these terms and conditions, please contact us at <a href="mailto:thecooperativestrust@gmail.com">thecooperativestrust@gmail.com</a></p>
+                
+                
+            </div>
+     
+</main>
+
+@endsection

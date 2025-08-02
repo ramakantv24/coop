@@ -1,0 +1,45 @@
+@extends('layouts.frontend')
+@section('title', 'Risk Policy')
+@section('content')
+
+<main id="main">
+    <div class="container">
+    <br><br><br><br>
+    
+    
+        <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>Risk Policy</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>Effective Date: 06/10/2023&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>1. Overview</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>The Cooperatives Trust (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) is committed to providing a safe and secure online environment for all users of our website (www.coopindia.org). This Risk Policy outlines the potential risks associated with the use of our website and the measures in place to mitigate these risks. By accessing and using our website, you agree to comply with the terms and conditions outlined below and acknowledge the risks associated with using our platform.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>2. Use of the Website</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Informational Purposes: The content provided on our website is for informational purposes only and should not be considered as financial or legal advice. Users acknowledge that any reliance on the information provided is at their own risk.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>b. Age Requirement: Users must be at least 18 years old or the legal age in their jurisdiction to use our website.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>c. Lawful Use: Users agree to use our website only for lawful purposes and in accordance with these terms and applicable laws and regulations.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>3. Intellectual Property</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Ownership: The content, trademarks, logos, and other intellectual property displayed on our website are the property of The Cooperatives Trust or its licensors. Users may not use, reproduce, modify, or distribute any of the intellectual property without prior written consent.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>4. Privacy and Data Protection</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Privacy Policy: We take privacy and data protection seriously. Our Privacy Policy outlines how we collect, use, disclose, and protect personal information. By using our website, users consent to the collection and use of their personal information as described in our Privacy Policy.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>5. Accuracy of Information</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Content Accuracy: While we strive to provide accurate and up-to-date information, we do not warrant the completeness, accuracy, or reliability of any content on our website. Any reliance on the information is at the user&apos;s own risk.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>b. Content Modification: We reserve the right to modify, update, or remove content on our website without prior notice.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>6. Third-Party Links</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Third-Party Websites: Our website may contain links to third-party websites or resources. These links are provided for user convenience, and we do not endorse or control the content or practices of these third-party websites.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>b. User Responsibility: Users acknowledge and agree that we are not responsible or liable for any damages or losses arising from their use of third-party websites.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>7. Limitation of Liability</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Disclaimer: To the maximum extent permitted by law, The Cooperatives Trust and its affiliates, officers, directors, employees, or agents shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or related to the use of our website.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>8. Indemnification</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. User Responsibility: Users agree to indemnify and hold harmless The Cooperatives Trust and its affiliates, officers, directors, employees, or agents from any claims, damages, liabilities, or expenses arising from their use of our website or violation of these terms.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>9. Governing Law and Jurisdiction</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Jurisdiction: These terms shall be governed by and construed in accordance with the laws of Civil Court, Gangavathi-583227, Koppal District, Karnataka. Any legal action or proceeding arising out of or related to these terms shall be brought exclusively in the courts located in Gangavathi-583227, Koppal District, Karnataka, and users consent to the personal jurisdiction of such courts.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>10. Modifications</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Policy Updates: We reserve the right to modify or update this Risk Policy at any time. Any changes will be effective immediately upon posting on our website. Users&apos; continued use of our website after the modifications constitute their acceptance of the revised policy.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'><strong>11. Contact Information</strong>&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>a. Questions and Concerns: If you have any questions or concerns regarding this Risk Policy or our terms and conditions, please contact us at thecooperativestrust@gmail.com.&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>Last Updated: 06/10/2023&nbsp;</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;font-size:11.0pt;font-family:"Calibri","sans-serif";'>Please note that this Risk Policy is subject to change, and users are encouraged to review it periodically to stay informed about any updates or modifications.</p>
+    
+    
+    </div>
+</main>
+ 
+@endsection
